@@ -4,7 +4,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Support Specialist | Cloud Systems Engineer | System Admin
 -------------------------------------------------------------
 
-Welcome to my GitHub profile! -With 2.5 years of hands-on experience in IT support, specializing in deploying and maintaining laptops and desktops while providing top-notch user support. - Dedicated to Customer Satisfaction: I am committed to ensuring effective utilization of systems, products, and services, always striving to boost customer satisfaction and operational performance. - Expertise in Hardware and Software: Proficient in hardware and software installation and maintenance, with a strong understanding of virtualization technologies including Hyper-V and VMware. - Diverse Skill Set: From firewall configuration to infrastructure monitoring, I bring a diverse skill set to the table, ensuring comprehensive IT support. - Cloud Computing Proficiency: Well-versed in cloud computing, adept at deploying various models such as public, private, and hybrid, along with IAAS, PAAS, and SAAS deployments. - Identity Management: Experienced in identity management through Active Directory, with familiarity in cloud platforms like Azure and AWS. - Strong Soft Skills: Hone teamwork, problem-solving, and time management skills, with a knack for conflict resolution, thriving in collaborative environments. - Let's Collaborate: I'm eager to connect and collaborate on exciting projects that push the boundaries of technology!
+                                                                Welcome to my GitHub profile! 
+                                                                
+- **IT Support Specialist:** 2.5 years experience deploying and maintaining laptops/desktops, prioritizing top-notch user support.
+- 
+- **Customer Satisfaction Focus:** Dedicated to boosting operational performance and ensuring effective system utilization.
+- 
+- **Expertise:** Proficient in hardware/software installation, virtualization (Hyper-V, VMware), firewall configuration, and infrastructure monitoring.
+- 
+- **Cloud Computing:** Skilled in public/private/hybrid cloud deployment, IAAS/PAAS/SAAS models, Active Directory, Azure, AWS.
+- 
+- **Strong Soft Skills:** Teamwork, problem-solving, time management, conflict resolution.
+- 
+- **Collaboration:** Let's connect for innovative projects pushing technology boundaries!
 
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [Portfolio](http://nileshnerlekar.me)
