@@ -20,7 +20,7 @@ IT Support Specialist | Cloud Systems Engineer | System Admin
 
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [Portfolio](http://nileshnerlekar.me)
-* ✉️  You can contact me at [nilesh.nerlekar101@gmail.com(personal) | contact@nileshnerlekar.me](mailto:nilesh.nerlekar101@gmail.com(personal) | contact@nileshnerlekar.me)
+* ✉️  You can contact me at [nilesh.nerlekar101@gmail.com(personal) | contact@nileshnerlekar.me] (mailto:nilesh.nerlekar101@gmail.com(personal) | contact@nileshnerlekar.me)
 * 🧠  I'm learning Cloud AI
 * 🤝  I'm open to collaborating on Embark on an innovative journey to revolutionize system administration through cloud technologies. Leverage cloud-native solutions for enhanced scalability, automation, and security. Let's collaborate to redefine the future of IT infrastructure management.
 * ⚡  If your laptop is feeling down, don't worry—I'll give it a pep talk and a virtual hug!!
